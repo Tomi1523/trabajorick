@@ -1,0 +1,15 @@
+.contenedor-tarjetas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tarjetas{
+    border: solid 3px;
+}
+
+.nombres{
+    display: flex;
+    justify-content: space-between;
+}
+
